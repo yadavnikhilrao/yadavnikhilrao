@@ -2,9 +2,6 @@
   <a href="https://github.com/yadavnikhilrao"> <img src="welcome.svg"/> </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yadavnikhilrao"> <img src="linkedin banner.jpg"/>
-</p>
 
 
 <b>*About Me*:</b> 
