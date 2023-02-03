@@ -45,14 +45,12 @@
 <a href="https://github.com/yadavnikhilrao"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadavnikhilrao&layout=compact&theme=radical&hide_border=true" height="180rem"/></a>
   </td>
     
-  <td> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yadavnikhilrao&theme=radical&hide_border=true)<br/>
-  </td>
-  
 </tr>
 </table>
 </p>
-  
+ 
+![](https://github-readme-streak-stats.herokuapp.com/?user=yadavnikhilrao&theme=radical&hide_border=true)<br/>
+
   
 <b>*Languages And Tools*:</b>
   
