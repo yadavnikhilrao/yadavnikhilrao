@@ -24,9 +24,6 @@
 <a href="https://kaggle.com/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yadavnikhilrao" height="30" width="40" /></a>
 <a href="https://instagram.com/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadavnikhilrao" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yadavnikhilrao" height="30" width="40" /></a>
-</p>
-[<img alt="LinkedIn" width="25px" src="assets/linkedin.svg">](https://www.linkedin.com/in/yadavnikhilrao) &nbsp; 
-[<img alt="Twitter" width="25px" src="assets/twitter.svg">](https://twitter.com/intent/follow?screen_name=yadavnikhilrao)
 
  <b> </b>
 
