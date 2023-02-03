@@ -37,7 +37,7 @@
   
   <td>
   <a href="https://github.com/yadavnikhilrao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yadavnikhilrao&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Nikhil's Github Stats" height="180rem" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yadavnikhilrao&theme=radical&hide_border=true" alt="Nikhil's Github Stats" height="180rem" />
   </a>
   </td>
     
@@ -73,10 +73,7 @@
   
   
   
-  
-  
-  
-  # 📊 GitHub Stats:
+ 
 
 
   
