@@ -19,13 +19,9 @@
 <b>*Connect With Me*:</b> 
 
 <a href="https://instagram.com/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yadavnikhilrao" height="20" width="30" /></a>
-
 <a href="https://linkedin.com/in/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yadavnikhilrao" height="20" width="30" /></a>
-
 <a href="https://twitter.com/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadavnikhilrao" height="20" width="30" /></a>
-
 <a href="https://kaggle.com/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yadavnikhilrao" height="20" width="30" /></a>
-
 <a href="https://www.youtube.com/c/yadavnikhilrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yadavnikhilrao" height="20" width="30" /></a>
 
  <b> </b>
