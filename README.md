@@ -9,7 +9,7 @@
 
 <b>*About Me*:</b> 
 
-  🎓 &nbsp;I'm currently pursuing MCA (AI & ML) at KIET Group of Instiutions, Delhi NCR.\
+  🎓 &nbsp;I'm currently pursuing MCA at KIET Group of Instiutions, Delhi NCR.\
   💡 &nbsp;Some technologies I enjoy working with include Python, Machine Learning, Deep Learning, NLP, MySQL, HTML, CSS, C.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Artificial Intelligence.\
   👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/yadavnikhilrao), [CodeChef](https://www.codechef.com/users/yadavnikhilrao), [HackerRank](https://www.hackerrank.com/yadavnikhilrao) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yadavnikhilrao/practice).\
