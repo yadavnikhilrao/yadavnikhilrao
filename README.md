@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/yadavnikhilrao"> <img src="assets/welcome.svg"/> </a>
+  <a href="https://github.com/yadavnikhilrao"> <img src="welcome.svg"/> </a>
 </p>
 
 <p align="center">
