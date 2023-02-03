@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yadavnikhilrao"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
+  <a href="https://github.com/yadavnikhilrao"> <img src="nikhil.svg"/> <img src="kumar.svg"/> </a>
 </p>
 
 
