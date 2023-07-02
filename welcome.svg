@@ -33,11 +33,11 @@
             values='m0,14.5 h0 ; m0,14.5 h345 ; m0,14.5 h345 ; m0,14.5 h0'
             keyTimes='0;0.72727272727273;0.81818181818182;1' />
     </path>
-<text fill="#249BF3" font-size="30" dominant-baseline="middle" x="50%" text-anchor="middle">
+<!-- <text fill="#249BF3" font-size="30" dominant-baseline="middle" x="50%" text-anchor="middle">
   <textPath xlink:href="#path1" font-family="Lobster, monospace">
     <tspan font-style="italic" font-weight="bold">I</tspan> <tspan font-style="italic" font-weight="bold">am</tspan> <tspan font-style="italic" font-weight="bold">N</tspan><tspan font-family="monospace" font-style="italic" font-weight="bold">i</tspan><tspan font-style="italic" font-weight="bold">k</tspan>hil <tspan font-style="italic" font-weight="bold">Y</tspan>adav.
   </textPath>
-</text>
+</text> -->
 
 
 
