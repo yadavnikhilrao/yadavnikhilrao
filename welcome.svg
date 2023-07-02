@@ -35,7 +35,7 @@
     </path>
 <text fill="#249BF3" font-size="30" dominant-baseline="middle" x="50%" text-anchor="middle">
   <textPath xlink:href="#path1" font-family="Lobster, monospace">
-    <tspan font-weight="bold">I</tspan> <tspan font-weight="bold" font-style="italic">am</tspan> <tspan font-weight="bold" font-style="italic">N</tspan><tspan font-family="monospace" font-weight="bold" font-style="italic">i</tspan><tspan font-weight="bold" font-style="italic">k</tspan>hil <tspan font-weight="bold" font-style="italic" fill="darkgreen">Kumar</tspan>.
+    <tspan font-style="italic">I</tspan> <tspan font-style="italic">am</tspan> <tspan font-style="italic">N</tspan><tspan font-family="monospace" font-style="italic">i</tspan><tspan font-style="italic">k</tspan>hil <tspan font-style="italic">K</tspan>umar.
   </textPath>
 </text>
 
