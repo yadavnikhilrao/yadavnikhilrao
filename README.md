@@ -2,12 +2,13 @@
   <a href="https://github.com/yadavnikhilrao"><img src="welcome.svg" alt="GitHub Profile" /></a>
 </p>
 
-<b>About Me:</b>/
-👋 &nbsp;Hello! I'm student pursuing my Master's in Computer Applications (MCA) at KIEt Group of Institutions in Delhi NCR.\
+<b>About Me:</b>
+
+👋 &nbsp;Hello! I'm student pursuing my Master's in Computer Applications (MCA) at KIEt Group of Institutions in Delhi-NCR.\
 💡 &nbsp;Some technologies I enjoy working with include Python, Machine Learning, Deep Learning, NLP, MySQL, HTML, CSS, C.\
 🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Artificial Intelligence.\
 ✉️ &nbsp;Get in touch with me via email at `yadavnikhilrao@gmail.com` or connect on [LinkedIn](https://www.linkedin.com/in/yadavnikhilrao).\
-💬 Ask me about **Data Science, Artificial Intelligence**
+💬 &nbsp;Ask me about **Data Science, Artificial Intelligence**
 
 <b>Connect With Me:</b>
 
