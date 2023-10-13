@@ -6,7 +6,6 @@
 👋 Hello! I'm student pursuing my Master's in Computer Applications (MCA) at KIEt Group of Institutions in Delhi NCR.
 💡 &nbsp;Some technologies I enjoy working with include Python, Machine Learning, Deep Learning, NLP, MySQL, HTML, CSS, C.\
 🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Artificial Intelligence.\
-👨‍💻 &nbsp;I am practicing on [LeetCode](https://leetcode.com/yadavnikhilrao), [CodeChef](https://www.codechef.com/users/yadavnikhilrao), [HackerRank](https://www.hackerrank.com/yadavnikhilrao), and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/yadavnikhilrao/practice).\
 ✉️ &nbsp;Get in touch with me via email at `yadavnikhilrao@gmail.com` or connect on [LinkedIn](https://www.linkedin.com/in/yadavnikhilrao).\
 💬 Ask me about **Data Science, Artificial Intelligence**
 
