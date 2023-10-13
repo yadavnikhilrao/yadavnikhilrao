@@ -3,7 +3,7 @@
 </p>
 
 <b>About Me:</b>
-👋 Hello! I'm student pursuing my Master's in Computer Applications (MCA) at KIEt Group of Institutions in Delhi NCR.\
+👋 &nbsp;Hello! I'm student pursuing my Master's in Computer Applications (MCA) at KIEt Group of Institutions in Delhi NCR.\
 💡 &nbsp;Some technologies I enjoy working with include Python, Machine Learning, Deep Learning, NLP, MySQL, HTML, CSS, C.\
 🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Artificial Intelligence.\
 ✉️ &nbsp;Get in touch with me via email at `yadavnikhilrao@gmail.com` or connect on [LinkedIn](https://www.linkedin.com/in/yadavnikhilrao).\
